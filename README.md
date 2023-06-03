@@ -1,72 +1,31 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-> https://muhammad0awais.github.io
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-![GitHub stars](https://img.shields.io/github/stars/muhammad0awais/muhammad0awais.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/muhammad0awais/muhammad0awais.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/muhammad0awais/muhammad0awais.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://muhammad0awais.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ch-m-awais/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-<!-- ### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://muhammad0awais.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p> -->
+# Instructions
 
-:star: Star me on GitHub — it helps!
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+See more info at https://academicpages.github.io/
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+# Changelog -- bugfixes and enhancements
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
