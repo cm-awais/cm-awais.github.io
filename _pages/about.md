@@ -15,13 +15,13 @@ When I'm not delving into algorithms, I embrace real-world challenges. Designing
 
 Reserach Interests
 ======
-* Computer Vision: Leveraging the power of computer vision algorithms to extract meaningful information from visual data and enhance human-computer interaction.
-* Machine Learning: Exploring the depths of machine learning techniques and algorithms to develop intelligent systems capable of adapting and learning from data.
-* Deep Learning: Unraveling the potential of deep neural networks to solve complex problems and uncover hidden patterns in large-scale datasets.
-* Image Augmentation: Investigating the relationship between image augmentations and their impact on classification tasks, striving to improve the accuracy and performance of AI tools.
-* Sustainability: Combining computer vision and machine learning to address environmental challenges and foster sustainability in areas such as energy, waste management, and agriculture.
-* Natural Language Processing: Harnessing the power of language processing algorithms to enable machines to understand and interpret human language, facilitating seamless human-computer interaction.
-* Data Analysis and Visualization: Applying advanced techniques to analyze and visualize complex datasets, uncovering valuable insights and supporting data-driven decision-making.
-* Artificial Intelligence: Exploring the frontiers of AI research, including areas such as robotics, autonomous systems, and cognitive computing, to pave the way for the future of intelligent machines.
-* Sign Language Recognition: Developing intelligent systems to recognize and interpret sign language, bridging communication gaps and promoting inclusivity.
-* Sustainable Technologies: Investigating the integration of emerging technologies, such as IoT, blockchain, and edge computing, into sustainable solutions for smart cities and industries.
+* **Computer Vision**: Leveraging the power of computer vision algorithms to extract meaningful information from visual data and enhance human-computer interaction.
+* **Machine Learning**: Exploring the depths of machine learning techniques and algorithms to develop intelligent systems capable of adapting and learning from data.
+* **Deep Learning**: Unraveling the potential of deep neural networks to solve complex problems and uncover hidden patterns in large-scale datasets.
+* **Image Augmentation**: Investigating the relationship between image augmentations and their impact on classification tasks, striving to improve the accuracy and performance of AI tools.
+* **Sustainability**: Combining computer vision and machine learning to address environmental challenges and foster sustainability in areas such as energy, waste management, and agriculture.
+* **Natural Language Processing**: Harnessing the power of language processing algorithms to enable machines to understand and interpret human language, facilitating seamless human-computer interaction.
+* **Data Analysis and Visualization**: Applying advanced techniques to analyze and visualize complex datasets, uncovering valuable insights and supporting data-driven decision-making.
+* **Artificial Intelligence**: Exploring the frontiers of AI research, including areas such as robotics, autonomous systems, and cognitive computing, to pave the way for the future of intelligent machines.
+* **Sign Language Recognition**: Developing intelligent systems to recognize and interpret sign language, bridging communication gaps and promoting inclusivity.
+* **Sustainable Technologies**: Investigating the integration of emerging technologies, such as IoT, blockchain, and edge computing, into sustainable solutions for smart cities and industries.
