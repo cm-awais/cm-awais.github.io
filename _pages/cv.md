@@ -51,7 +51,7 @@ Publications
 
 - **(Published) Ch M Awais**, I.E.I Bekkouch, A.M Khan "What augmentations are sensitive to hyper-parameters and why?", SAI 2022: Intelligent Computing pp 449–468 \[[LINK](https://link.springer.com/chapter/10.1007/978-3-031-10461-9_31)\]
 
-- **(Pre-print) Ch M Awais**, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, and Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest for software defect prediction" \[[Pre-print](https://www.researchgate.net/publication/350459831_A_meta-analytical_comparison_of_Naive_Bayes_and_Random_Forest_for_software_defect_prediction)\]
+- **(Published) Ch M Awais**, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, and Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest for software defect prediction" \[[Link](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)\]
   
 Projects
 ======
