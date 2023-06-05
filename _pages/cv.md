@@ -45,18 +45,6 @@ Sep, 2016 - Feb, 2018 (17 Months)
 Tech Stack: OpenCV, Scikit-Learn, Numpy, PyQT, Python
 - Spearheaded the collection and compilation of data for the creation of the Pakistan Sign Language (PSL) dataset, a valuable resource for ongoing research.
 - Applied cutting-edge machine learning techniques, including implementation, training, analysis, and results reporting, to conduct groundbreaking experiments on the PSL dataset.
-  
-Skills
-======
-| Technical Skills        | Core Skills                | Additional Skills      |
-|:--------|:-------:|--------:|
-| Python/Java/C++ | Artificial Intelligence | Web Scraping              |
-| PyTorch                             | Machine Learning        | Problem Solving           |
-| TensorFlow                                | Deep Learning               | Research                        |
-| OpenCV                                  | Natural Language Processing | Teaching                          |
-| Scikit-Learn                            | Computer Vision               | Leadership                          |
-| Numpy/Pandas/SQL/PowerBI                           | Data Science                       | Communication                    |
-| Linux/Unix                           |  Data Manipulation and Analysis                                           |                                              |
 
 Publications
 ======
@@ -128,3 +116,64 @@ Honors and Achievements
 - **First Position, Programming Competition:** Earned the first position in a highly competitive programming competition, highlighting proficiency in algorithmic thinking and programming prowess. (2015, Pakistan)
 - **Merit-Based University Scholarship:** Awarded a merit-based scholarship for outstanding academic performance throughout the Bachelor's and Master's degree programs, recognizing exceptional dedication and achievements.
 - **Paper Presentations at SAI Computing Conference and ISDA:** Delivered impactful presentations of research papers at the SAI Computing Conference (2021) and ISDA (International Conference on Intelligent Systems Design and Applications) (2022), contributing to the advancement of knowledge in the field of computer science.
+
+
+Skills
+======
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C++
+- MATLAB
+- HTML/CSS
+- JavaScript
+
+### Machine Learning Frameworks
+- TensorFlow
+- Keras
+- PyTorch
+- Scikit-Learn
+
+### Data Manipulation and Analysis
+- Numpy
+- Pandas
+- SQL
+
+### Data Visualization
+- Matplotlib
+- PowerBI
+
+### Computer Vision
+- OpenCV
+
+### Web Technologies
+- Flask
+- HTML/CSS
+- JavaScript
+
+### Version Control
+- Git
+
+### Operating Systems
+- Linux/Unix
+
+## Core Skills
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Science
+
+## Additional Skills
+
+- Web Scraping
+- Problem Solving
+- Research
+- Teaching
+- Leadership
+- Communication
