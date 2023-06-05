@@ -48,12 +48,15 @@ Tech Stack: OpenCV, Scikit-Learn, Numpy, PyQT, Python
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| Technical Skills        | Core Skills                | Additional Skills      |
+|-------------------------|-----------------------------|---------------------------|
+| Python/Java/C++ | Artificial Intelligence | Web Scraping              |
+| PyTorch                             | Machine Learning        | Problem Solving           |
+| TensorFlow                                | Deep Learning               | Research                        |
+| OpenCV                                  | Natural Language Processing | Teaching                          |
+| Scikit-Learn                            | Computer Vision               | Leadership                          |
+| Numpy/Pandas/SQL/PowerBI                           | Data Science                       | Communication                    |
+| Linux/Unix                           |  Data Manipulation and Analysis                                           |                                              |
 
 Publications
 ======
@@ -114,6 +117,14 @@ Teaching
      * Contributed to the development of evaluation metrics and criteria for assessing project outcomes.
      * Collaborated with the instructor to grade exams and ensure fair evaluation of students' knowledge.
 
-Service and leadership
+Honors and Achievements
 ======
-* Currently signed in to 43 different slack teams
+- **Gratitude Letter for Significant Contributions:** Recognized with a gratitude letter for making substantial contributions to the growth of extracurricular activities at Innopolis University. (2022)
+- **Best Student of the Year:** Awarded the prestigious title of Best Student of the Year at Innopolis University for three consecutive years, demonstrating consistent academic excellence and leadership. (2022, 2021, 2021, Russia)
+- **First Position, Innopolis Happiness Index Hackathon:** Achieved the first position in the Innopolis Happiness Index Hackathon by developing innovative solutions to measure and enhance happiness within the community. (2021, Russia)
+- **Second Positions, LingvoHack and Case in Tools International Hackathon:** Secured second positions in the highly competitive LingvoHack (2022) and Case in Tools International Hackathon (2021) by applying problem-solving skills and collaboration to deliver outstanding results. (Russia)
+- **Third Position, AR/VR Hackathon:** Attained the third position in the AR/VR Hackathon, showcasing expertise in creating immersive experiences and pushing the boundaries of augmented and virtual reality technologies. (2020, Russia)
+- **Second Position, Programming Competitions:** Demonstrated exceptional programming skills and problem-solving abilities by securing second positions in prestigious programming competitions. (2016, 2017, Pakistan)
+- **First Position, Programming Competition:** Earned the first position in a highly competitive programming competition, highlighting proficiency in algorithmic thinking and programming prowess. (2015, Pakistan)
+- **Merit-Based University Scholarship:** Awarded a merit-based scholarship for outstanding academic performance throughout the Bachelor's and Master's degree programs, recognizing exceptional dedication and achievements.
+- **Paper Presentations at SAI Computing Conference and ISDA:** Delivered impactful presentations of research papers at the SAI Computing Conference (2021) and ISDA (International Conference on Intelligent Systems Design and Applications) (2022), contributing to the advancement of knowledge in the field of computer science.
