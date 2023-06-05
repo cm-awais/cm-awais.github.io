@@ -83,18 +83,18 @@ author:
   name             : "Ch Muhammad Awais"
   avatar           : "profile.jpg"
   bio              : "Machine learning and Deep learning engineer working on solving real-life problems"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : "https://cm-awais.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=6tT70cEAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "awaisrwp@yahoo.com
+  researchgate     : "https://www.researchgate.net/profile/Ch-Awais"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "ch.muh.awais
   foursquare       :
   github           : "cm-awais"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ch-m-awais/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
