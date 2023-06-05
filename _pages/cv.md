@@ -49,7 +49,7 @@ Tech Stack: OpenCV, Scikit-Learn, Numpy, PyQT, Python
 Skills
 ======
 | Technical Skills        | Core Skills                | Additional Skills      |
-|-------------------------|-----------------------------|---------------------------|
+|:--------|:-------:|--------:|
 | Python/Java/C++ | Artificial Intelligence | Web Scraping              |
 | PyTorch                             | Machine Learning        | Problem Solving           |
 | TensorFlow                                | Deep Learning               | Research                        |
