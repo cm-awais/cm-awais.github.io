@@ -13,6 +13,9 @@ Education
 ======
 * B.S. in Computer Science, IIUI, Pakistan, 2017
 * M.S. in Data Science, Innopolis University, Russia, 2022
+    Thesis Title: A Framework to Understand Image Augmentations for Classification Tasks [LINK](https://reader.lanbook.com/vkr/72695)
+    Investigated the intricate relationship between image augmentations and their impact on classification tasks, providing valuable insights to improve the accuracy and performance of AI tools.
+
 
 Work experience
 ======
