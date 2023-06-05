@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, IIUI, Pakistan, 2017
-* M.S. in Data Science, Innopolis University, Russia, 2022
-    Thesis Title: A Framework to Understand Image Augmentations for Classification Tasks [LINK](https://reader.lanbook.com/vkr/72695)
-    Investigated the intricate relationship between image augmentations and their impact on classification tasks, providing valuable insights to improve the accuracy and performance of AI tools.
+* B.S. in Computer Science, [IIUI](https://www.iiu.edu.pk/?page_id=1897), Pakistan, 2017
+  * Thesis Title: Pakistan Sign Language Recognition using Local Binary Patterns and Support Vector Machine
+  * Spearheaded a research project focused on the development of an intelligent system for Pakistan Sign Language recognition, paving the way for enhanced communication and accessibility.
+* M.S. in Data Science, [Innopolis University](https://apply.innopolis.university/en/master/datascience/), Russia, 2022
+  * Thesis Title: A Framework to Understand Image Augmentations for Classification Tasks [LINK](https://reader.lanbook.com/vkr/72695)
+  * Investigated the intricate relationship between image augmentations and their impact on classification tasks, providing valuable insights to improve the accuracy and performance of AI tools.
 
 
 Work experience
