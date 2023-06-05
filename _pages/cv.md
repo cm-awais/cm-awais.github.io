@@ -81,29 +81,8 @@ Projects
 Teaching
 ======
 1. **Introduction to Artificial Intelligence**
-   - Course: Bachelors 2nd Year
-   - Number of Students: 60
-   - Key Topics Covered: Fundamentals of AI, Machine Learning basics, Neural Networks, and AI applications.
-   - Teaching Approach: Engaging lectures, hands-on programming exercises, and real-world examples to develop a solid foundation in AI concepts.
-
 2. **Information Retrieval**
-   - Course: Bachelors 3rd Year
-   - Number of Students: 90
-   - Key Topics Covered: Information retrieval techniques, indexing, ranking algorithms, query processing, and evaluation metrics.
-   - Teaching Approach: Interactive lectures, practical assignments, and projects to enhance students' understanding of information retrieval principles and algorithms.
-
 3. **Advanced Information Retrieval**
-   - Course: Master 1st Year
-   - Number of Students: 30
-   - Key Topics Covered: Advanced concepts in information retrieval, including web search, text mining, natural language processing, and recommendation systems.
-   - Teaching Approach: In-depth discussions, research-oriented projects, and exploring state-of-the-art techniques to equip students with advanced skills in information retrieval.
-
-- Teaching Assistant Responsibilities:
-     * Facilitated interactive discussions and clarified concepts related to information retrieval techniques.
-     * Created and managed assignments to reinforce students' understanding of indexing, ranking algorithms, and query processing.
-     * Reviewed and provided detailed feedback on assignments to guide students in improving their skills.
-     * Contributed to the development of evaluation metrics and criteria for assessing project outcomes.
-     * Collaborated with the instructor to grade exams and ensure fair evaluation of students' knowledge.
 
 Honors and Achievements
 ======
