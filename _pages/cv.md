@@ -70,6 +70,7 @@ Projects
   
 Teaching
 ======
+I have taught the following three courses to Bachelors and Masters students.
 1. **Introduction to Artificial Intelligence**
 2. **Information Retrieval**
 3. **Advanced Information Retrieval**
