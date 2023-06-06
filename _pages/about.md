@@ -11,12 +11,4 @@ I'm Ch Muhammad Awais, a computer scientist with a passion for AI and machine le
 
 Reserach Interests
 ======
-* **Computer Vision**
-* **Machine Learning**
-* **Deep Learning**
-* **Image Augmentation**
-* **Environment Sustainability**
-* **Natural Language Processing**
-* **Data Analysis and Visualization**
-* **Artificial Intelligence**
-* **Sustainable Technologies**
+Computer Vision, Machine Learning, Deep Learning, Image Augmentation, Environment Sustainability, Natural Language Processing, Data Analysis and Visualization, Artificial Intelligence, Sustainable Technologies.

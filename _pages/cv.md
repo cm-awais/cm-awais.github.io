@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+ {% include base_path %} -->
+
 
 Education
 ======
@@ -51,19 +52,19 @@ Publications
 
 - **(Published) Ch M Awais**, I.E.I Bekkouch, A.M Khan "What augmentations are sensitive to hyper-parameters and why?", SAI 2022: Intelligent Computing pp 449–468 \[[LINK](https://link.springer.com/chapter/10.1007/978-3-031-10461-9_31)\]
 
-- **(Published) Ch M Awais**, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, and Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest for software defect prediction" \[[Link](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)\]
+- **(Published) Ch M Awais**, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, and Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest for software defect prediction" \[[LINK](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)\]
   
 Projects
 ======
  Here's the provided information converted into Markdown format:
 
-- **Music and Image Search (Course Project)** [code](https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT/blob/main/Music(Shazam)%20and%20Images%20retrieval(SIFT).ipynb)
+- **Music and Image Search (Course Project)** [CODE](https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT/blob/main/Music(Shazam)%20and%20Images%20retrieval(SIFT).ipynb)
 
-- **Document Retrieval Algorithm (Course Project)** [code](https://github.com/Muhammad0Awais/Search-Engine-based-document-processing-pipeline)
+- **Document Retrieval Algorithm (Course Project)** [CODE](https://github.com/Muhammad0Awais/Search-Engine-based-document-processing-pipeline)
 
-- **Malicious Content Detection (Hackathon Project)** [Link](https://github.com/Muhammad0Awais/sber_zvuk_hackathon)
+- **Malicious Content Detection (Hackathon Project)** [CODE](https://github.com/Muhammad0Awais/sber_zvuk_hackathon)
 
-- **Advertisements Assessment (Hackathon Project)** [Link](https://github.com/Muhammad0Awais/Yolo-based-Advertistment-Analysis)
+- **Advertisements Assessment (Hackathon Project)** [CODE](https://github.com/Muhammad0Awais/Yolo-based-Advertistment-Analysis)
 
 - **Image Correction Algorithms Benchmarking (Hackathon Project)** [Presentation LINK](https://docs.google.com/presentation/d/1Se1o_hMCWlAHoOfg0WZPiOq0BHkbMQqtqk8hPIKTFJM/edit?usp=sharing)
   
@@ -80,7 +81,7 @@ Skills
 |---|---|---|
 | **Programming**: Python, Java, C++ | Artificial Intelligence | Research |
 | **ML Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn | Machine Learning | Teaching|
-| **Analysis**: Numpy, Pandas, SQL | NLP| Problem-Solving |
+| **Analysis**: Numpy, Pandas, SQL | Natural Language Processing| Problem-Solving |
 | **Data Visualization**: Matplotlib, PowerBI | Deep Learning| Leadership|
 | **Computer Vision**: OpenCV | Computer Vision | Communication|
 | **Version Control**: Git | Data Wrangling | Web Scrapping |
