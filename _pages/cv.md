@@ -56,7 +56,6 @@ Publications
   
 Projects
 ======
- Here's the provided information converted into Markdown format:
 
 - **Music and Image Search (Course Project)** [CODE](https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT/blob/main/Music(Shazam)%20and%20Images%20retrieval(SIFT).ipynb)
 
