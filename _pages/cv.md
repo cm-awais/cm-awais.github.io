@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
@@ -57,53 +57,34 @@ Projects
 ======
  Here's the provided information converted into Markdown format:
 
-- **Music and Image Search (Course Project)**
-  - Implemented a music search using the constellation algorithm following the strategy of Shazam and an image search using SIFT features.
-  - Developed and optimized algorithms to achieve fast and accurate results. [code](https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT/blob/main/Music(Shazam)%20and%20Images%20retrieval(SIFT).ipynb)
+- **Music and Image Search (Course Project)** [code](https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT/blob/main/Music(Shazam)%20and%20Images%20retrieval(SIFT).ipynb)
 
-- **Document Retrieval Algorithm (Course Project)**
-  - Implemented an algorithm to use TF/IDF to index documents and retrieve the ones that matched a query.
-  - Utilized natural language processing techniques to improve the search results. [code](https://github.com/Muhammad0Awais/Search-Engine-based-document-processing-pipeline)
+- **Document Retrieval Algorithm (Course Project)** [code](https://github.com/Muhammad0Awais/Search-Engine-based-document-processing-pipeline)
 
-- **Malicious Content Detection (Hackathon Project)**
-  - Addressed the problem of content filtering by employing machine learning models to detect malicious content.
-  - Utilized OpenCV to blur content and speech recognition to detect and beep malicious content.
-  - Developed and tested a pipeline for real-time content filtering. [Link](https://github.com/Muhammad0Awais/sber_zvuk_hackathon)
+- **Malicious Content Detection (Hackathon Project)** [Link](https://github.com/Muhammad0Awais/sber_zvuk_hackathon)
 
-- **Advertisements Assessment (Hackathon Project)**
-  - Developed an ML pipeline using YOLOV3 to assess advertisements on walls and aid decision-makers in formulating advertising strategies.
-  - Conducted extensive testing to ensure high accuracy and reliable performance. [Link](https://github.com/Muhammad0Awais/Yolo-based-Advertistment-Analysis)
+- **Advertisements Assessment (Hackathon Project)** [Link](https://github.com/Muhammad0Awais/Yolo-based-Advertistment-Analysis)
 
-- **Image Correction Algorithms Benchmarking (Hackathon Project)**
-  - Benchmark and compared various image correction algorithms for a video streaming company to determine the best algorithms for maximizing streaming quality.
-  - Utilized super-resolution techniques to improve the image quality. [Presentation LINK](https://docs.google.com/presentation/d/1Se1o_hMCWlAHoOfg0WZPiOq0BHkbMQqtqk8hPIKTFJM/edit?usp=sharing)
+- **Image Correction Algorithms Benchmarking (Hackathon Project)** [Presentation LINK](https://docs.google.com/presentation/d/1Se1o_hMCWlAHoOfg0WZPiOq0BHkbMQqtqk8hPIKTFJM/edit?usp=sharing)
   
 Teaching
 ======
 1. **Introduction to Artificial Intelligence**
-   - Course: Bachelors 2nd Year
-   - Number of Students: 60
-   - Key Topics Covered: Fundamentals of AI, Machine Learning basics, Neural Networks, and AI applications.
-   - Teaching Approach: Engaging lectures, hands-on programming exercises, and real-world examples to develop a solid foundation in AI concepts.
-
 2. **Information Retrieval**
-   - Course: Bachelors 3rd Year
-   - Number of Students: 90
-   - Key Topics Covered: Information retrieval techniques, indexing, ranking algorithms, query processing, and evaluation metrics.
-   - Teaching Approach: Interactive lectures, practical assignments, and projects to enhance students' understanding of information retrieval principles and algorithms.
-
 3. **Advanced Information Retrieval**
-   - Course: Master 1st Year
-   - Number of Students: 30
-   - Key Topics Covered: Advanced concepts in information retrieval, including web search, text mining, natural language processing, and recommendation systems.
-   - Teaching Approach: In-depth discussions, research-oriented projects, and exploring state-of-the-art techniques to equip students with advanced skills in information retrieval.
 
-- Teaching Assistant Responsibilities:
-     * Facilitated interactive discussions and clarified concepts related to information retrieval techniques.
-     * Created and managed assignments to reinforce students' understanding of indexing, ranking algorithms, and query processing.
-     * Reviewed and provided detailed feedback on assignments to guide students in improving their skills.
-     * Contributed to the development of evaluation metrics and criteria for assessing project outcomes.
-     * Collaborated with the instructor to grade exams and ensure fair evaluation of students' knowledge.
+Skills
+======
+
+| Technical Skills | Core Skills | Additional Skills |
+|---|---|---|
+| **Programming**: Python, Java, C++ | Artificial Intelligence | Research |
+| **ML Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn | Machine Learning | Teaching|
+| **Analysis**: Numpy, Pandas, SQL | NLP| Problem-Solving |
+| **Data Visualization**: Matplotlib, PowerBI | Deep Learning| Leadership|
+| **Computer Vision**: OpenCV | Computer Vision | Communication|
+| **Version Control**: Git | Data Wrangling | Web Scrapping |
+| **OS**: Linux/Unix/Windows | Data Science | |
 
 Honors and Achievements
 ======
@@ -116,64 +97,3 @@ Honors and Achievements
 - **First Position, Programming Competition:** Earned the first position in a highly competitive programming competition, highlighting proficiency in algorithmic thinking and programming prowess. (2015, Pakistan)
 - **Merit-Based University Scholarship:** Awarded a merit-based scholarship for outstanding academic performance throughout the Bachelor's and Master's degree programs, recognizing exceptional dedication and achievements.
 - **Paper Presentations at SAI Computing Conference and ISDA:** Delivered impactful presentations of research papers at the SAI Computing Conference (2021) and ISDA (International Conference on Intelligent Systems Design and Applications) (2022), contributing to the advancement of knowledge in the field of computer science.
-
-
-Skills
-======
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- Java
-- C++
-- MATLAB
-- HTML/CSS
-- JavaScript
-
-### Machine Learning Frameworks
-- TensorFlow
-- Keras
-- PyTorch
-- Scikit-Learn
-
-### Data Manipulation and Analysis
-- Numpy
-- Pandas
-- SQL
-
-### Data Visualization
-- Matplotlib
-- PowerBI
-
-### Computer Vision
-- OpenCV
-
-### Web Technologies
-- Flask
-- HTML/CSS
-- JavaScript
-
-### Version Control
-- Git
-
-### Operating Systems
-- Linux/Unix
-
-## Core Skills
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Science
-
-## Additional Skills
-
-- Web Scraping
-- Problem Solving
-- Research
-- Teaching
-- Leadership
-- Communication
