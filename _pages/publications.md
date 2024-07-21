@@ -16,6 +16,6 @@ author_profile: true
 
 - **(Published) Ch M Awais**, Marco Reggiannini, Davide Moroni, "Testing a SAR-based ship classifier with different loss functions", Biodiversity change in the Anthrospace: Priorities for research, Fano, 2024, \[[LINK](https://www.researchgate.net/publication/381708810_Testing_a_SAR-based_ship_classifier_with_different_loss_functions\]
 
-- **(Publish) Ch M Awais**, Marco Reggiannini, "Evaluating the Impact of Fine-tuning on Deep Learning Models for SAR Ship Classification", Convegno Scientifico, 20-21 May 2024, Università degli Studi di Palermo, \[[LINK](https://www.researchgate.net/publication/381708612_Evaluating_the_Impact_of_Fine-tuning_on_Deep_Learning_Models_for_SAR_Ship_Classification)\]
+- **(Published) Ch M Awais**, Marco Reggiannini, "Evaluating the Impact of Fine-tuning on Deep Learning Models for SAR Ship Classification", Convegno Scientifico, 20-21 May 2024, Università degli Studi di Palermo, \[[LINK](https://www.researchgate.net/publication/381708612_Evaluating_the_Impact_of_Fine-tuning_on_Deep_Learning_Models_for_SAR_Ship_Classification)\]
 
 - **(Published) Ch M Awais**, Davide Moroni, Marco Reggiannini, "FUTURE FISHERY & DEEP LEARNING", ISIT-DAY, Pisa, 2024 \[[LINK](https://www.researchgate.net/publication/381709215_FUTURE_FISHERY_DEEP_LEARNING)\]
