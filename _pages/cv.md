@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ch Muhammad Awais – CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
  {% include base_path %}
-
-# Ch Muhammad Awais – CV
 
 ## Professional Summary
 AI/ML Researcher with 5+ years of experience in computer vision, deep learning, and Earth Observation systems. Published in Tier-A venues like WACV, ISCAS, and IGARSS. Skilled in PyTorch, SageMaker, and MLFlow with a strong track record of scalable ML pipelines, research leadership, and academic collaboration.
@@ -55,8 +53,8 @@ Sep, 2016 - Feb, 2018 (17 Months)
 - **Awais CM**, et al. Oversampling for Imbalanced SAR Datasets. *IGARSS 2025*, Brisbane, Australia (Accepted) [Paper Info](https://www.2025.ieeeigarss.org/)
 - **Awais CM**, et al. SAR-to-IR Domain Adaptation. *AITA 2025*, Kobe, Japan (Accepted) [Paper Inf](https://english.jsndi.jp/aita2025/index.html)
 - **Awais CM**, et al. Deep Learning for SAR Ship Classification. *ICEAA 2024*, Lisbon, Portugal [LINK](https://ieeexplore.ieee.org/abstract/document/10701968)
-- **(Published)** Ch M Awais, I.E.I Bekkouch, A.M Khan "What augmentations are sensitive to hyper-parameters and why?", *SAI 2022*, London [LINK](https://link.springer.com/chapter/10.1007/978-3-031-10461-9_31)
-- **(Published)** Ch M Awais, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest" [LINK](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)
+- **Awais CM**, I.E.I Bekkouch, A.M Khan "What augmentations are sensitive to hyper-parameters and why?", *SAI 2022*, London [LINK](https://link.springer.com/chapter/10.1007/978-3-031-10461-9_31)
+- **Awais CM**, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest" [LINK](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)
 
 ## Projects
 - **Curriculum Learning and Oversampling for SAR data**: Classification improvement.
