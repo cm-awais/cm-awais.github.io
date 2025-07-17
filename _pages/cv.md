@@ -50,11 +50,11 @@ Sep, 2016 - Feb, 2018 (17 Months)
 - Created PSL dataset and applied ML techniques to it.
 
 ## Publications
-- **Awais CM**, Reggiannini M, Moroni D. Curriculum Learning for SAR Ship Classification. *WACV 2025*, Tucson, USA
-- **Awais CM**, et al. Image Quality vs Performance in Super-Resolution. *ISCAS 2025*, London, UK
-- **Awais CM**, et al. Oversampling for Imbalanced SAR Datasets. *IGARSS 2025*, Brisbane, Australia (Accepted)
-- **Awais CM**, et al. SAR-to-IR Domain Adaptation. *AITA 2025*, Kobe, Japan (Accepted)
-- **Awais CM**, et al. Deep Learning for SAR Ship Classification. *ICEAA 2024*, Lisbon, Portugal
+- **Awais CM**, Reggiannini M, Moroni D. Curriculum Learning for SAR Ship Classification. *WACV 2025*, Tucson, USA [LINK](https://openaccess.thecvf.com/content/WACV2025W/MaCVi/html/Awais_A_Framework_for_Imbalanced_SAR_Ship_Classification_Curriculum_Learning_Weighted_WACVW_2025_paper.html)
+- **Awais CM**, et al. Image Quality vs Performance in Super-Resolution. *ISCAS 2025*, London, UK [LINK](https://ieeexplore.ieee.org/abstract/document/11043629)
+- **Awais CM**, et al. Oversampling for Imbalanced SAR Datasets. *IGARSS 2025*, Brisbane, Australia (Accepted) [Paper Info](https://www.2025.ieeeigarss.org/)
+- **Awais CM**, et al. SAR-to-IR Domain Adaptation. *AITA 2025*, Kobe, Japan (Accepted) [Paper Inf](https://english.jsndi.jp/aita2025/index.html)
+- **Awais CM**, et al. Deep Learning for SAR Ship Classification. *ICEAA 2024*, Lisbon, Portugal [LINK](https://ieeexplore.ieee.org/abstract/document/10701968)
 - **(Published)** Ch M Awais, I.E.I Bekkouch, A.M Khan "What augmentations are sensitive to hyper-parameters and why?", *SAI 2022*, London [LINK](https://link.springer.com/chapter/10.1007/978-3-031-10461-9_31)
 - **(Published)** Ch M Awais, Wei Gu, Gcinizwe Dlamini, Zamira Kholmatova, Giancarlo Succi, "A meta-analytical comparison of Naive Bayes and Random Forest" [LINK](https://link.springer.com/chapter/10.1007/978-3-031-35501-1_14)
 
@@ -73,16 +73,18 @@ Taught Bachelors and Masters students:
 2. Information Retrieval
 3. Advanced Information Retrieval
 
-## Skills
-| Technical Skills | Core Skills | Additional Skills |
-|---|---|---|
-| **Programming**: Python, Java, C++ | Artificial Intelligence | Research |
-| **ML Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn | Machine Learning | Teaching|
-| **Analysis**: Numpy, Pandas, SQL | NLP | Problem-Solving |
-| **Data Viz**: Matplotlib, PowerBI | Deep Learning | Leadership|
-| **CV Tools**: OpenCV | Computer Vision | Communication|
-| **Version Control**: Git | Data Wrangling | Web Scraping |
-| **OS**: Linux/Unix/Windows | Data Science | |
+## 🛠️ Skills
+
+| Technical Skills                            | Core Skills            | Additional Skills    |
+|---------------------------------------------|------------------------|----------------------|
+| **Programming**: Python, Java, C++           | Artificial Intelligence| Research             |
+| **ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn | Machine Learning       | Teaching             |
+| **Analysis**: NumPy, Pandas, SQL             | Natural Language Processing | Problem-Solving |
+| **Data Visualization**: Matplotlib, PowerBI  | Deep Learning          | Leadership           |
+| **Computer Vision Tools**: OpenCV            | Computer Vision        | Communication        |
+| **Version Control**: Git                     | Data Wrangling         | Web Scraping         |
+| **Operating Systems**: Linux, Unix, Windows  | Data Science           | —                    |
+
 
 ## Honors and Achievements
 - Winner: Young Mobility Grant, ISTI-CNR, 2025
