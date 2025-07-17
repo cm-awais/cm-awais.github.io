@@ -5,41 +5,70 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<ul>
-  <li>
-    <strong>Music and Image Search (Course Project)</strong>
+<h2>💼 Project Portfolio</h2>
+
+<!-- FILTER BUTTONS -->
+<div id="project-filters" style="margin-bottom: 1rem;">
+  <button onclick="filterProjects('all')">Show All</button>
+  <button onclick="filterProjects('course')">Course Projects</button>
+  <button onclick="filterProjects('hackathon')">Hackathon Projects</button>
+</div>
+
+<!-- PROJECT LIST -->
+<ul id="project-list">
+
+  <li class="project-item course">
+    <strong>🎵 Music and Image Search</strong> (Course Project)
     <ul>
-      <li>Implemented a music search using the constellation algorithm following the strategy of Shazam and an image search using SIFT features.</li>
-      <li>Developed and optimized algorithms to achieve fast and accurate results. <a href="https://github.com/Muhammad0Awais/Music-Shazam-and-Images-retrieval-SIFT">code</a></li>
+      <li>Audio search with constellation algorithm (Shazam-like) and image retrieval using SIFT.</li>
+      <li><a href="https://github.com/cm-awais/Music-Shazam-and-Images-retrieval-SIFT" target="_blank">[View Code]</a></li>
     </ul>
   </li>
-  <li>
-    <strong>Document Retrieval Algorithm (Course Project)</strong>
+
+  <li class="project-item course">
+    <strong>📄 Document Retrieval System</strong> (Course Project)
     <ul>
-      <li>Implemented an algorithm to use TF/IDF to index documents and retrieve the ones that matched a query.</li>
-      <li>Utilized natural language processing techniques to improve the search results. <a href="https://github.com/Muhammad0Awais/Search-Engine-based-document-processing-pipeline">code</a></li>
+      <li>TF-IDF-based indexing and NLP-enhanced document search.</li>
+      <li><a href="https://github.com/cm-awais/Search-Engine-based-document-processing-pipeline" target="_blank">[View Code]</a></li>
     </ul>
   </li>
-  <li>
-    <strong>Malicious Content Detection (Hackathon Project)</strong>
+
+  <li class="project-item hackathon">
+    <strong>🛡️ Malicious Content Detection</strong> (Hackathon Project)
     <ul>
-      <li>Addressed the problem of content filtering by employing machine learning models to detect malicious content.</li>
-      <li>Utilized OpenCV to blur content and speech recognition to detect and beep malicious content.</li>
-      <li>Developed and tested a pipeline for real-time content filtering. <a href="https://github.com/Muhammad0Awais/sber_zvuk_hackathon">Link</a></li>
+      <li>Speech filtering + OpenCV blurring + real-time pipeline for content moderation.</li>
+      <li><a href="https://github.com/cm-awais/sber_zvuk_hackathon" target="_blank">[View Code]</a></li>
     </ul>
   </li>
-  <li>
-    <strong>Advertisements Assessment (Hackathon Project)</strong>
+
+  <li class="project-item hackathon">
+    <strong>📊 Advertisement Placement Analysis</strong> (Hackathon Project)
     <ul>
-      <li>Developed an ML pipeline using YOLOV3 to assess advertisements on walls and aid decision-makers in formulating advertising strategies.</li>
-      <li>Conducted extensive testing to ensure high accuracy and reliable performance. <a href="https://github.com/Muhammad0Awais/Yolo-based-Advertistment-Analysis">Link</a></li>
+      <li>YOLOv3-powered ad detection and visual campaign performance evaluation.</li>
+      <li><a href="https://github.com/cm-awais/Yolo-based-Advertistment-Analysis" target="_blank">[View Code]</a></li>
     </ul>
   </li>
-  <li>
-    <strong>Image Correction Algorithms Benchmarking (Hackathon Project)</strong>
+
+  <li class="project-item hackathon">
+    <strong>🖼️ Image Correction Benchmarking</strong> (Hackathon Project)
     <ul>
-      <li>Benchmarked and compared various image correction algorithms for a video streaming company to determine the best algorithms for maximizing streaming quality.</li>
-      <li>Utilized super-resolution techniques to improve the image quality. <a href="https://docs.google.com/presentation/d/1Se1o_hMCWlAHoOfg0WZPiOq0BHkbMQqtqk8hPIKTFJM/edit?usp=sharing">Presentation LINK</a></li>
+      <li>Compared SR algorithms for streaming services; used image quality metrics.</li>
+      <li><a href="https://docs.google.com/presentation/d/1Se1o_hMCWlAHoOfg0WZPiOq0BHkbMQqtqk8hPIKTFJM/edit?usp=sharing" target="_blank">[Presentation]</a></li>
     </ul>
   </li>
+
 </ul>
+
+<!-- JAVASCRIPT FOR FILTERING -->
+<script>
+  function filterProjects(type) {
+    var items = document.getElementsByClassName('project-item');
+    for (var i = 0; i < items.length; i++) {
+      if (type === 'all' || items[i].classList.contains(type)) {
+        items[i].style.display = '';
+      } else {
+        items[i].style.display = 'none';
+      }
+    }
+  }
+</script>
