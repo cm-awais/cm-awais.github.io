@@ -42,10 +42,22 @@ author_profile: true
     <strong>Ch M Awais</strong>, M. Reggiannini, D. Moroni, O. Karakus<br>
     <em>Feature-Space Oversampling for Addressing Class Imbalance in SAR Ship Classification</em><br>
     <strong>IGARSS 2025</strong>, Brisbane, Australia (Accepted).  
-    <br><a href="https://www.2025.ieeeigarss.org" target="_blank">[Paper Info]</a>
+    <br><a href="https://arxiv.org/abs/2508.06420" target="_blank">[Pre-Print]</a>
     <details>
       <summary><em>Abstract</em></summary>
       <small>Applies feature-space augmentation to rebalance data distribution in SAR ship classification, improving performance on underrepresented classes.</small>
+    </details>
+  </li>
+
+  <li>
+    <!-- <img src="/assets/images/igarss2025_thumb.png" alt="IGARSS 2025" width="120"> -->
+    <strong>Ch M Awais</strong>, M. Reggiannini, D. Moroni, O. Karakus<br>
+    <em>A Classification-Aware Super-Resolution Framework for Ship Targets in SAR Imagery</em><br>
+    <strong>--</strong>, -- (Submitted).  
+    <br><a href="https://arxiv.org/abs/2508.06407" target="_blank">[Pre-Print]</a>
+    <details>
+      <summary><em>Abstract</em></summary>
+      <small>Introduces novel methodology for considering downstream task during super resolution.</small>
     </details>
   </li>
 
