@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 👋 About Me
 
 **OPEN TO POSTDOCS/POSITIONS** (Starting JAN 2026)
 
 **[Publications HERE](https://cm-awais.github.io/publications/)**
+
+## 👋 About Me
 
 I am a **Research Associate at ISTI-CNR, Pisa**, working on deep learning solutions for critical challenges like **data scarcity**, **data quality**, and **class imbalance** in Earth Observation and computer vision domains. I specialize in SAR-based maritime surveillance, image super-resolution, and curriculum learning. With a passion for AI and sustainability, I aim to bridge research with real-world applications.
 
