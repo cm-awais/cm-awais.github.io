@@ -100,6 +100,7 @@ Taught Bachelors and Masters students:
 - IEEE GRSS IADF School: Computer Vision for EO, Benevento, Italy, Sep 2024
 - High Performance & Disruptive Computing in Remote Sensing School, Santiago de Compostela, Spain, Jun 2025
 - IEEE GRSS EO for Australian Challenges, Brisbane, Australia, Jul 2025
+- ELLIS PHD Symposium, Warsaw, Poland, Aug 2025
 - PhD Scholarship: University of Pisa, Italy
 - MSc Scholarship: Innopolis University, Russia
 - BSc Scholarship: IIUI, Pakistan
