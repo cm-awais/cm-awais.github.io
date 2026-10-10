@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-**OPEN TO POSTDOCS/POSITIONS** (Starting JAN 2026)
+**OPEN TO POSTDOCS/POSITIONS**
 
 **[Publications HERE](https://cm-awais.github.io/publications/)**
 
 ## 👋 About Me
 
-I am a **Research Associate at ISTI-CNR, Pisa**, working on deep learning solutions for critical challenges like **data scarcity**, **data quality**, and **class imbalance** in Earth Observation and computer vision domains. I specialize in SAR-based maritime surveillance, image super-resolution, and curriculum learning. With a passion for AI and sustainability, I aim to bridge research with real-world applications.
+I am a **Research Associate at ISTI-CNR, Pisa**, working on deep learning solutions for critical challenges like **data scarcity**, **data quality**, and **class imbalance** in computer vision domains. With a passion for AI and sustainability, I aim to bridge research with real-world applications.
 
 ---
 
 ## 🔬 What I'm Working On
 
-- Tackling **data imbalance** in deep learning for SAR ship classification
+- Tackling **data imbalance** in deep learning.
 - Enhancing low-resolution data using **super-resolution models**
 - Exploring **Vision-Language Models (VLMs)** for remote sensing
 - Researching **hierarchical networks and expert systems** to improve classification reliability
@@ -44,13 +44,13 @@ I am a **Research Associate at ISTI-CNR, Pisa**, working on deep learning soluti
 
 ---
 
-## 🤝 How to Collaborate With Me
+## 🤝 How to Collaborate With Me (awaisrwp at yahoo dot com)
 - Open to research collaborations in deep learning, SAR, and computer vision
-- Available for guest lectures, project mentorship, and speaking engagements
+- Available for invited talks, guest lectures, project mentorship, and speaking engagements
 - Happy to co-author on AI/ML papers related to sustainability or Earth Observation
 
 ---
 
-Feel free to reach out if you're working on topics around deep learning, satellite data, or AI-powered sustainability. Let's collaborate!
+Feel free to reach out if you're working on topics around deep learning, imbalanced data, or AI-powered sustainability. Let's collaborate!
 
 
